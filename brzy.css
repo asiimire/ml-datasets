@@ -1,0 +1,28 @@
+p{
+  color: rgb(255, 219, 88);
+}
+.breezy{
+  color: rgb(255, 219, 88);
+  margin-left: 500px;
+  font-weight: bolder;
+  font-size: 200px;
+  line-height: 20px;
+  margin-bottom: 100px;
+}
+.breezy:hover{
+  
+}
+.bdy{
+  background-color: black;
+}
+.search-bar{
+  border-color: rgb(255, 219, 88);
+  color: rgb(255, 219, 88);
+
+}
+.image{
+  width: 500px;
+  object-position: center;
+  object-fit: cover;
+  border-radius: 250px;
+}

@@ -1,0 +1,15 @@
+.twt{
+  width: 100px;
+  border-radius: 20px;
+}
+.bar{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  border:0px;
+  border-width: 100px;
+  margin-left: 50px;
+}
+.tweet-button{
+  height: 30px;
+  border-radius: 15px;
+}
