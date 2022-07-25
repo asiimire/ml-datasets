@@ -1,0 +1,264 @@
+1
+00:00:00,000 --> 00:00:03,405
+To start, let's talk about the relationship between
+
+2
+00:00:03,405 --> 00:00:08,085
+artificial intelligence or AI and machine learning.
+
+3
+00:00:08,085 --> 00:00:12,240
+AI refers to the broad capability of machines to
+
+4
+00:00:12,240 --> 00:00:16,770
+perform activities using human-like intelligence.
+
+5
+00:00:16,770 --> 00:00:19,515
+Machine learning, or short form,
+
+6
+00:00:19,515 --> 00:00:22,860
+ML, is a type of artificial intelligence.
+
+7
+00:00:22,860 --> 00:00:26,970
+It allows computers to automatically learn and improve
+
+8
+00:00:26,970 --> 00:00:31,935
+from experience without being explicitly programmed to do so.
+
+9
+00:00:31,935 --> 00:00:35,790
+Using machine learning, computers can learn from
+
+10
+00:00:35,790 --> 00:00:40,035
+data to discover patterns and make predictions.
+
+11
+00:00:40,035 --> 00:00:42,410
+Supervised learning is a type of
+
+12
+00:00:42,410 --> 00:00:46,280
+machine learning technique in which every training sample from
+
+13
+00:00:46,280 --> 00:00:52,915
+the dataset has a corresponding label or output value associated with it.
+
+14
+00:00:52,915 --> 00:00:58,850
+As a result, the algorithm learns to predict labels or output values.
+
+15
+00:00:58,850 --> 00:01:02,660
+You can use supervised learning to do things like predict
+
+16
+00:01:02,660 --> 00:01:07,000
+the sale price of a house or classify objects in an image.
+
+17
+00:01:07,000 --> 00:01:11,005
+You will learn more about supervised learning in this lesson.
+
+18
+00:01:11,005 --> 00:01:16,660
+In unsupervised learning, there are no labels for the training data.
+
+19
+00:01:16,660 --> 00:01:18,860
+The algorithm tries to learn
+
+20
+00:01:18,860 --> 00:01:22,905
+the underlying patterns or distributions that govern the data.
+
+21
+00:01:22,905 --> 00:01:27,035
+You will discover more about this technique later in this lesson.
+
+22
+00:01:27,035 --> 00:01:31,115
+Remember, in supervised and unsupervised learning,
+
+23
+00:01:31,115 --> 00:01:35,039
+models inspect data to discover patterns,
+
+24
+00:01:35,039 --> 00:01:38,185
+then human use the patterns learned by the model
+
+25
+00:01:38,185 --> 00:01:41,890
+to gain new understandings or make predictions.
+
+26
+00:01:41,890 --> 00:01:46,405
+There is another type of machine learning called reinforcement learning,
+
+27
+00:01:46,405 --> 00:01:48,880
+which takes a different approach.
+
+28
+00:01:48,880 --> 00:01:52,090
+Reinforcement learning is learning
+
+29
+00:01:52,090 --> 00:01:56,845
+what actions to take in a situation to maximize reward.
+
+30
+00:01:56,845 --> 00:02:00,460
+It is similar to how you might train your pet.
+
+31
+00:02:00,460 --> 00:02:03,265
+If your dog does something you want it to do,
+
+32
+00:02:03,265 --> 00:02:05,735
+you might reward it with a treat.
+
+33
+00:02:05,735 --> 00:02:08,570
+If it does something you don't want it to do,
+
+34
+00:02:08,570 --> 00:02:14,600
+you might correct it with a small penalty like raising your voice just a little bit.
+
+35
+00:02:14,600 --> 00:02:17,660
+Your dog learns to do the things that get
+
+36
+00:02:17,660 --> 00:02:22,040
+a treat and avoid doing things that get a correction.
+
+37
+00:02:22,040 --> 00:02:27,040
+In machine learning, reinforcement learning works exactly like this.
+
+38
+00:02:27,040 --> 00:02:30,875
+Now, let's see how machine learning help solve problems
+
+39
+00:02:30,875 --> 00:02:35,260
+and how this differs from traditional problem-solving.
+
+40
+00:02:35,260 --> 00:02:38,270
+In traditional problem-solving with software,
+
+41
+00:02:38,270 --> 00:02:45,920
+a person analyses a problem and engineers a solution in code to solve that problem.
+
+42
+00:02:45,920 --> 00:02:49,025
+For many real-world examples,
+
+43
+00:02:49,025 --> 00:02:51,635
+this process takes a lot of time.
+
+44
+00:02:51,635 --> 00:02:53,990
+It might even be impossible.
+
+45
+00:02:53,990 --> 00:02:59,015
+This is because a correct solution needs to consider numerous edge cases.
+
+46
+00:02:59,015 --> 00:03:02,720
+For example, imagine the challenging task of writing
+
+47
+00:03:02,720 --> 00:03:06,800
+a program which can detect if a cat is poisoned in an image or not.
+
+48
+00:03:06,800 --> 00:03:10,340
+Traditional problem-solving would require careful attention to
+
+49
+00:03:10,340 --> 00:03:13,610
+details like varying lighting conditions,
+
+50
+00:03:13,610 --> 00:03:17,080
+different type of cats, colors, etc.
+
+51
+00:03:17,080 --> 00:03:22,145
+In machine learning, we have a flexible component called a model.
+
+52
+00:03:22,145 --> 00:03:24,980
+We also have a special program called
+
+53
+00:03:24,980 --> 00:03:29,845
+the model training algorithm to adjust the model to real-world data.
+
+54
+00:03:29,845 --> 00:03:34,040
+The result is a trained model which can be used to predict
+
+55
+00:03:34,040 --> 00:03:38,185
+outcomes which are not part of the dataset used to train it.
+
+56
+00:03:38,185 --> 00:03:42,680
+In a way, machine learning automate some of this statistical reasoning and
+
+57
+00:03:42,680 --> 00:03:47,405
+pattern matching that the problem-solver would traditionally do.
+
+58
+00:03:47,405 --> 00:03:51,485
+The flexibility of the model is the key here.
+
+59
+00:03:51,485 --> 00:03:56,945
+The machine learning field has seen rapid and recent growths.
+
+60
+00:03:56,945 --> 00:04:00,200
+As you start on your machine learning journey,
+
+61
+00:04:00,200 --> 00:04:02,030
+you might see related,
+
+62
+00:04:02,030 --> 00:04:05,915
+but different definitions of the terms we will use in this lesson.
+
+63
+00:04:05,915 --> 00:04:11,945
+This is because machine learning is a new field at the intersection of statistics,
+
+64
+00:04:11,945 --> 00:04:15,470
+applied math, and computer science.
+
+65
+00:04:15,470 --> 00:04:17,750
+Each of these fields might have
+
+66
+00:04:17,750 --> 00:04:22,590
+a slightly different formal definition for the same terms.
+
