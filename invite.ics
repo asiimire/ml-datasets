@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220722T070000Z
+DTEND:20220722T073000Z
+DTSTAMP:20220714T164228Z
+ORGANIZER;CN=Google DSC Lead Interview Calendar:mailto:c_ao9c733pm4strelr37
+ 7v9136ao@group.calendar.google.com
+UID:fduuoqusl4blolprsbk09piti8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=anju.krishna@beahead.biz;X-NUM-GUESTS=0:mailto:anju.krishna@beahead
+ .biz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=anju.krishna@beahead.co;X-NUM-GUESTS=0:mailto:anju.krishna@beahead.
+ co
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=pradipta.sharma@beahead.biz;X-NUM-GUESTS=0:mailto:pradipta.sharma@b
+ eahead.biz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=pradipta.sharma@beahead.co;X-NUM-GUESTS=0:mailto:pradipta.sharma@be
+ ahead.co
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=asiimirepatricia26@gmail.com;X-NUM-GUESTS=0:mailto:asiimirepatricia26@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Google DSC Lead Interview Calendar;X-NUM-GUESTS=0:mailto:c_ao9c733pm4st
+ relr377v9136ao@group.calendar.google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/hhm-sdnb-arw
+X-MICROSOFT-CDO-OWNERAPPTID:385222321
+CREATED:20220714T044440Z
+DESCRIPTION:asiimirepatricia26@gmail.com\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this 
+ section of the description.\n\nThis event has a video call.\nJoin: https://
+ meet.google.com/hhm-sdnb-arw\n(US) +1 435-610-2191 PIN: 268187564#\nView mo
+ re phone numbers: https://tel.meet/hhm-sdnb-arw?pin=4398637015671&hs=7\n\nV
+ iew your event at https://calendar.google.com/calendar/event?action=VIEW&ei
+ d=ZmR1dW9xdXNsNGJsb2xwcnNiazA5cGl0aTggYXNpaW1pcmVwYXRyaWNpYTI2QG0&tok=NTQjY
+ 19hbzljNzMzcG00c3RyZWxyMzc3djkxMzZhb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29tODc2
+ MTA4NjgxNDdhNjVlYjFiYTcxOWI3NDEwMWRhN2ZmNmVlY2UxYQ&ctz=Africa%2FNairobi&hl=
+ en_GB&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220714T164227Z
+LOCATION:Makerere University
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Google Developer Student Clubs (GDSC) Lead Candidate Interview - 20
+ 22 (Patricia Asiimire)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
